@@ -55,7 +55,7 @@
 - Сгруппируем данные по датам, получим информацию об изменении балансов по всем студентам за каждый день.
 - Создаем итоговую визуализацию результата.
 
-Ссылка на проект https://docs.google.com/spreadsheets/d/1pnwhmEWzwpR19F0Gn-0qll59nYsTy5zvN9jxw859nZg/edit#gid=1776672239
+Ссылка на проект https://docs.google.com/spreadsheets/d/1aAlsCVbXWKGzOnLkj_3oXcnOrmhUv8QXGf-z6JkLB4A/edit#gid=1993744225
 
 Выводы (итоги):
 
